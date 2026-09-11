@@ -103,3 +103,8 @@ options
 omni
 portrait
 edit animate transition
+ai content creation
+premier pro
+after effects
+content writing
+json script
