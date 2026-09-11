@@ -1,0 +1,10 @@
+/analyze
+
+```markdown
+so hello there claude mujko tumhe ek baat batani hai so jo mere yusuf sir heina unko maine apne career aur job ke regarding boht sari baate ki so ive done my bscit in apr 26 aur mera main focus to full mern stack development along with data analysis hi hai leveraging ai aur unko maine ye sab bataya so he came up with ki mere pasme tere liye ek boht convenient kaam hai tu karegi maine bola batao so he said ki unki net tech india ke thane branch mei hi ek aisa insan chaiye jo google flow ya baki ai image video audio generation janta ho editing aati hu thori boht tumko bas unke working instagram page ke liye ai generated content creation karna hai jisme ek thumbnail ho avatar ho uske sequenced frames ke hisab se tumko ek short form content banake dena hai minimum 8 - maximum 60 secs ka unke topic aur script ka use karke aur video alag hoga audio uspe shyd alag ho aur editing ka part along with captions chaiye so maine ek influencer ke free guides boht use karti hu for my own purposes so uske idr muje boht sare content creation ke liye mile hai sab docs mujko bas kal wo lok ek chota sa interview lege uske badme mujko apna pura bada sa system aur credit points dege for an ultimate hour jisme muje unko ek pura wesa reel banake dena hai so what i want from you is that guides mei jitne bhi listed plugins, connectors, skills.. ya kuch aese useful codes aur prompts jo mai use kar saku to please usko yaha list out kardo sari cheeze thike irrespective of a few constraints ill link those reel examples down here its their new concept called job talk.. my sir told me that theyll pay me a good descent amount of the salary also its very easy to travel & commute.
+add files, manage connectors, and more
+apify : instagram reel scraper
+https://www.instagram.com/reel/DdDvobeB-BP/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
+https://www.instagram.com/reel/Dc-_WsXuv9C/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
+https://www.instagram.com/reel/Dc0ErnFRQzk/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
+```
